@@ -56,7 +56,7 @@
 
                 var string = 'y = ' + Math.round(gradient*100) / 100 + 'x + ' + Math.round(intercept*100) / 100;
 
-                return {equation: [gradient, intercept], points: results, string: string};
+                return {equation: [gradient, intercept, correlation], points: results, string: string};
             },
 
             linearThroughOrigin: function(data) {
