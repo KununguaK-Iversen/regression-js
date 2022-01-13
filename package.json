@@ -2,7 +2,7 @@
   "name": "regressionjs",
   "description": "Javascript least squares data fitting methods",
   "author": "Gavin <gavin@whyte.biz>",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "license": "MIT",
   "repository": "kununguak-iversen/regression-js",
   "keywords": [
